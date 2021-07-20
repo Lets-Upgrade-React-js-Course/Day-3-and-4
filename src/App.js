@@ -155,7 +155,7 @@ const Game = () =>{
                 </Modal.Footer>
             </Modal>
             <h1 style={{textAlign:'center',color:'black',paddingTop:'10px',textTransform:'uppercase'}}>
-                Lets Upgrade Zero to Hero React js Program <br/>Day2 Assignment
+                Lets Upgrade Zero to Hero React js Program <br/>Day3&4 Assignment
             </h1>
             <p style={{textAlign:'center',color:'orange',fontSize:'30px'}}>
               Tic Tac Toe

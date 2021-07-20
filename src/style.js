@@ -7,7 +7,7 @@ export const Box= styled.span`
     border-style: solid;
     border-color: grey;
     display: flex;
-    color: gold;
+    color: orange;
     justify-content: center;
     align-items: center;
     font-size:5em;
